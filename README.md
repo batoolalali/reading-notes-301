@@ -5,7 +5,7 @@ Here you can find all Read summaries for 301 course.
 
 *Class*    |    *Link*
 --------   |    -----------
-class 01   |    [Here]()
+class 01   |    [Here](https://batoolalali.github.io/reading-notes-301/class01)
 class 02   |    
 class 03   |    
 class 04   |    
