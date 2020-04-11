@@ -69,6 +69,7 @@ console.log('8080 is the magic port');
 6. Using EJS Partials
 
 ### looping
+
 ```JavaScript
 {
     <ul>
